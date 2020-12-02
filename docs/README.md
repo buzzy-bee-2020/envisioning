@@ -3,7 +3,7 @@ In questa cartella salviamo la documentazione relativa all'iterazione in questio
 
 ### Topology Diagram
 
-![Image of Yaktocat](https://github.com/buzzy-bee-2020/envisioning/blob/main/docs/Envisioning%20-%20Topology%20Diagram.png)
+![Image of Yaktocat](https://github.com/buzzy-bee-2020/envisioning/blob/main/docs/Envisioning%20-%20Topology_Diagram.png)
 
 
 ### Use Case Diagram
