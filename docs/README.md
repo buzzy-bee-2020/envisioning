@@ -8,4 +8,4 @@ In questa cartella salviamo la documentazione relativa all'iterazione in questio
 
 ### Use Case Diagram
 
-![Image of Yaktocat](https://github.com/buzzy-bee-2020/envisioning/blob/main/docs/useCaseDiag.png)
+![Image of Yaktocat](https://github.com/buzzy-bee-2020/envisioning/blob/main/docs/Envisioning%20-%20Use_Case_Diagram.png)
